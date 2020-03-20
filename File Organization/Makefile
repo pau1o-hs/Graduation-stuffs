@@ -1,5 +1,5 @@
 all:
-	gcc T3.c -g -o programaTrab3 lib/*.c -lm
+	gcc main.c -g -o programaTrab3 lib/*.c -lm
 
 run:
 	./programaTrab3
