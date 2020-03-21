@@ -19,3 +19,16 @@ The **training set** is the reference data used to classify correctly the new sp
 ./knn
 train.csv test.csv 3
 ```
+
+## Output
+
+* The class guessed by the kNN followed by the real class (classified by the specialist), for each example in test set
+* The kNN hit rate
+
+### Example
+```
+setosa setosa
+setosa versicolor
+virginica virginica
+0.6667
+```
