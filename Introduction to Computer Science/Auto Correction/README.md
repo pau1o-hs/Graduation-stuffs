@@ -1,4 +1,4 @@
-# Mining tweeter data API
+# Mining twitter data API
 
 Given a reference book and a list of tweets of the Twitter API, print the misspelled words in the tweets
 (words that do not exist in the reference book)
