@@ -1,5 +1,7 @@
 # Recommendation System
 
+**Algorithm: Cosine Similarity**
+
 Implemented a simple film recommendation that use as notes from users with more similar tastes as a basis for viewing as notes
 of a determined user in relation to a movie, and using these notes to create a list of movie recommendations ordered by these
 predicted notes.
