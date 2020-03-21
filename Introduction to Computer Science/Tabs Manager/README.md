@@ -14,7 +14,7 @@ http://www.usp.br
 20 11
 08 30
 ```
-* [2] Switch tab (position to be replaced)
+* [2] Switch tab (Tab title, position to be replaced)
 ```
 2
 USP
@@ -61,6 +61,7 @@ USP
 FOG http://www.fog.icmc.usp.br 21/11 21:30
 ICMC USP http://www.icmc.usp.br 20/11 09:15
 USP http://www.usp.br 20/11/2018 08:30
+
 USP http://www.usp.br 20/11 08:30
 ICMC USP http://www.icmc.usp.br 20/11 09:15
 FOG http://www.fog.icmc.usp.br 21/11 21:30
