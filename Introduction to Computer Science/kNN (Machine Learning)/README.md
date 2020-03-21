@@ -12,6 +12,8 @@ discover which species it belongs.
 * Test file
 * Number of neighbors
 
+The **training set** is the reference data used for classify the new species in the **test set**
+
 ### Example
 ```
 ./knn
