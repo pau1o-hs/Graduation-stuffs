@@ -22,6 +22,7 @@ USP
 ```
 * [3] Order by date and time
 * [4] Display all tabs configuration
+* [5] Exit
 
 ### Example
 ```
