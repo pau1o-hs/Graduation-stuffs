@@ -7,7 +7,7 @@ This means that you can find this byte pattern in an image
 whatever, it has a huge chance that the entire contents of a JPEG file.
 
 The program consider that your images are stored continuously in memory (the beginning of one file is exactly the end of another).
-And a 512 bytes block size.
+And is a 512 bytes block size.
 
 ## Input
 ```
