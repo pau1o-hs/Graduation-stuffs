@@ -39,6 +39,11 @@ tweets.json
 
 ## Output
 
-```
+* The incorrects words in the i-th tweet, separated by lines of the respective tweets
 
+### Example
+```
+Wat ar yah doin
+Theyre
+Dis iss mi jam
 ```
