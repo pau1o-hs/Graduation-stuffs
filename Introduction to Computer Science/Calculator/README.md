@@ -1,4 +1,4 @@
-# Hardcore Calculator
+# Binary tree
 
 **Algorithms: Binary tree and stack**
 
