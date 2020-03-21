@@ -20,7 +20,7 @@ http://www.usp.br
 USP
 3
 ```
-* [3] Ordered by date and time
+* [3] Order by date and time
 * [4] Display all tabs configuration
 
 ### Example
