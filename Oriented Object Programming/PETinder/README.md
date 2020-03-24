@@ -1,1 +1,1 @@
-Made following Youtube tutorials of *SimCoder*
+Made with helpfull tutorials from Youtube **SimCoder**
