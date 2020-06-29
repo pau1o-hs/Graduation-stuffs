@@ -1,0 +1,14 @@
+# Blender MTL File: 'Scene.blend'
+# Material Count: 1
+
+newmtl Bunny
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.607440 0.609848 0.609848
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 1.500000 C:\\Users\\henri\\Documents\\Blender Models\\Devil Bunny\\Bunny_Normal.png
+map_Kd C:\\Users\\henri\\Documents\\Blender Models\\Devil Bunny\\Bunny_Diffuse.png

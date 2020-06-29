@@ -1,0 +1,59 @@
+# Blender MTL File: 'Scene.blend'
+# Material Count: 5
+
+newmtl brench
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\henri\\Documents\\Codes\\Python CG\\T2Scene\\branch_Base_Color.png
+
+newmtl grass
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\henri\\Documents\\Codes\\Python CG\\T2Scene\\grass_05.tga
+map_d C:\\Users\\henri\\Documents\\Codes\\Python CG\\T2Scene\\grass_05.tga
+
+newmtl grunt
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\henri\\Documents\\Codes\\Python CG\\T2Scene\\terrain.png
+
+newmtl home
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\henri\\Documents\\Codes\\Python CG\\T2Scene\\home_hatka_Base_Color.png
+
+newmtl vane
+Ns 0.438613
+Ka 1.000000 1.000000 1.000000
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\henri\\Documents\\Codes\\Python CG\\T2Scene\\vane.tga
+map_d C:\\Users\\henri\\Documents\\Codes\\Python CG\\T2Scene\\vane.tga
